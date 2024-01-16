@@ -22,8 +22,8 @@ llenguatge de programació C, que comencen amb una barra invertida (\)
 indiquen la fi d'un document dins d'un flux.
 
 YAML requereix que les comes i punts i comes que s'utilitzen com a separadors en les llistes siguen seguits per un
-espai, de manera que els valors escalars que continguen signes de puntuació (com 5,280 o http://www.wikipedia.org) es
-puguen representar sense necessitat d'utilitzar cometes.
+espai, de manera que els valors escalars que continguen signes de puntuació es puguen representar sense necessitat
+d'utilitzar cometes.
 
 
 ## **BIBLIOGRAFIA**
