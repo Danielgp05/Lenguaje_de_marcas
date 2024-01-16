@@ -8,14 +8,6 @@ YAML és un format de serialització de dades llegible per humans inspirat en ll
 com en el format dels correus electrònics (RFC 2822) . YAML va ser proposat per Clark Evans en 2001, qui ho va
 dissenyar al costat de Ingy döt Net i Oren Ben-Kiki.
 
-### **Exemple de sintaxi de YAML**
-
-Aquest és un exemple d'un arxiu YAML senzill per al registre d'un estudiant que demostra les regles de sintaxis:
-
-```
-#Comentario: registro de estudiante #Describe algunas características y preferencias --- nombre: Martin D'vloper #clave-valor edad: 26 pasatiempos: - pintar #primer elemento de la lista - tocar_instrumentos #segundo elemento de la lista - cocinar #tercer elemento de la lista lenguajes_de_programación: java: intermedio python: avanzado javascript: principiante comidas_preferidas: - vegetales: tomates - frutas: cítricos: naranjas tropicales: bananas nueces: maní dulce: pasas
-```
-
 ### **Característiques**
 
 * Els continguts en YAML es descriuen utilitzant el conjunt de caràcters imprimibles de Unicode, bé en UTF-8 o
@@ -34,6 +26,14 @@ indiquen la fi d'un document dins d'un flux.
 YAML requereix que les comes i punts i comes que s'utilitzen com a separadors en les llistes siguen seguits per un
 espai, de manera que els valors escalars que continguen signes de puntuació es puguen representar sense necessitat
 d'utilitzar cometes.
+
+### **Exemple de sintaxi de YAML**
+
+Aquest és un exemple d'un arxiu YAML senzill per al registre d'un estudiant que demostra les regles de sintaxis:
+
+```
+#Comentario: registro de estudiante #Describe algunas características y preferencias --- nombre: Martin D'vloper #clave-valor edad: 26 pasatiempos: - pintar #primer elemento de la lista - tocar_instrumentos #segundo elemento de la lista - cocinar #tercer elemento de la lista lenguajes_de_programación: java: intermedio python: avanzado javascript: principiante comidas_preferidas: - vegetales: tomates - frutas: cítricos: naranjas tropicales: bananas nueces: maní dulce: pasas
+```
 
 ### Llistes
 
