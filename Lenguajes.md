@@ -2,8 +2,8 @@
 
 ## Índex
 
-1. YAML
-1. JSON
+1. [YAML](yaml)
+1. [JSON](json)
 
 ## **YAML**
 
