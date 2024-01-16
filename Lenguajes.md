@@ -82,6 +82,25 @@ grans objectes binaris.
   </menu>
 
 ```
+
+### Avantatges
+
+* És autodescriptiu i fàcil d'entendre.
+* La seua senzillesa li ha permés posicionar-se com la millor alternativa a XML.
+* És més ràpid en qualsevol altre navegador.
+* És de fàcil lectura.
+* És més lleuger (en bytes) en les transmissions.
+* S'analitza més ràpid.
+* Té una velocitat de processament alta.
+* Pot ser entés de manera nativa pels analitzadors de JavaScript.
+
+### Desavantatges
+
+* Alguns desenvolupadors troben la seua bàsica notació una mica confusa.
+* No compta amb extensibilitat.
+* No suporta grans càrregues, sol dades comunes.
+* Requereix de mecanismes externs, com a expressions regulars, per a la seguretat.
+
 ## **BIBLIOGRAFIA**
 
 * https://es.wikipedia.org/wiki/YAML
