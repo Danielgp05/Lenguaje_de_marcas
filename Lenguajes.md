@@ -1,6 +1,4 @@
-\begin{center} 
-# YAML Y JSON 
-\end{center}
+#                                               YAML Y JSON 
 
 ### YAML
 
