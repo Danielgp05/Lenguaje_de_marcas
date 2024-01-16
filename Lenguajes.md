@@ -70,7 +70,7 @@ entorns. En alguns llenguatges, com Java o PHP, hi ha diferents implementacions 
 possible de manera nativa amb la funció JSON.parse () . Tots dos formats manquen d'un mecanisme per a representar
 grans objectes binaris.
 
-És una possible representació *JSON del següent XML:14
+És una possible representació JSON del següent XML:14
 
 ```
 <menu id="file" value="File">
