@@ -114,4 +114,3 @@ grans objectes binaris.
 * https://es.wikipedia.org/wiki/YAML
 * https://es.wikipedia.org/wiki/JSON
 * https://www.redhat.com/es/topics/automation/what-is-yaml
-* 
