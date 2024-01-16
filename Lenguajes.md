@@ -25,6 +25,8 @@ YAML requereix que les comes i punts i comes que s'utilitzen com a separadors en
 espai, de manera que els valors escalars que continguen signes de puntuació es puguen representar sense necessitat
 d'utilitzar cometes.
 
+###Llistes
+
 ```
 --- # Películas favoritas, formato de bloque
  - BotijoAzul
@@ -35,6 +37,15 @@ d'utilitzar cometes.
  --- # Lista de la compra, formato en línea
  [leche, pan, huevos]
  [chorizo, morcilla, botijo, pollo]
+```
+###Vectors asociats
+
+```
+--- # Bloque
+ nombre: Pepe López
+ edad: 33
+ --- # En  línea
+ {nombre: Pepe López, edad: 33}
 ```
 
 ## **JSON**
