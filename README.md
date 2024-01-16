@@ -1,3 +1,1 @@
-# YAML Y JSON
-
-### YAML
+[YAML Y JSON](Lenguaje.md)
