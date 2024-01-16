@@ -1,1 +1,1 @@
-[YAML Y JSON](Lenguaje.md)
+[YAML Y JSON](Lenguajes.md)
