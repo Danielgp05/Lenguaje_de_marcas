@@ -18,6 +18,10 @@ claudàtors ([ ]) i separats per coma espai ( , ).
 dobles (") , o cometes simples (').
 * En les cometes dobles, els caràcters especials es poden representar amb seqüències de fuita similars a les del
 llenguatge de programació C, que comencen amb una barra invertida (\)
+* Es poden incloure múltiples documents dins d'un únic flux, separant-los per tres guions (---) ; els tres punts (...)
+indiquen la fi d'un document dins d'un flux.
+
+YAML requiere que las comas y puntos y comas que se utilicen como separadores en las listas sean seguidos por un espacio, de forma que los valores escalares que contengan signos de puntuación (como 5,280 o http://www.wikipedia.org) se puedan representar sin necesidad de utilizar comillas. 
 
 
 
