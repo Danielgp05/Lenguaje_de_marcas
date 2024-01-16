@@ -43,6 +43,7 @@ entorns. En alguns llenguatges, com Java o PHP, hi ha diferents implementacions 
 possible de manera nativa amb la funció JSON.parse () . Tots dos formats manquen d'un mecanisme per a representar
 grans objectes binaris.
 
+```
 <menu id="file" value="File">
     <popup>
       <menuitem value="New" onclick="CreateNewDoc()" />
@@ -50,7 +51,8 @@ grans objectes binaris.
       <menuitem value="Close" onclick="CloseDoc()" />
     </popup>
   </menu>
-  
+
+```
 ## **BIBLIOGRAFIA**
 
 * https://es.wikipedia.org/wiki/YAML
