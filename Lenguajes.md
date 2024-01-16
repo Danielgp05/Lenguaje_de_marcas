@@ -52,7 +52,7 @@ d'utilitzar cometes.
 
 ![Imagen no encontrada](JSON_vector_logo.svg.png)
 
-JSON (acrònim de JavaScript *Object *Notation, 'notació d'objecte de JavaScript') és un format de text senzill per a
+JSON (acrònim de JavaScript Object Notation, 'notació d'objecte de JavaScript') és un format de text senzill per a
 l'intercanvi de dades. Es tracta d'un subconjunt de la notació literal d'objectes de JavaScript, encara que, a causa
 de la seua àmplia adopció com a alternativa a XML, es considera un format independent del llenguatge.
 
