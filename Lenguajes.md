@@ -25,6 +25,18 @@ YAML requereix que les comes i punts i comes que s'utilitzen com a separadors en
 espai, de manera que els valors escalars que continguen signes de puntuació es puguen representar sense necessitat
 d'utilitzar cometes.
 
+```
+--- # Películas favoritas, formato de bloque
+ - BotijoAzul
+ - BotijoVerde
+ - Viridiana
+ - Psicosis
+ ...
+ --- # Lista de la compra, formato en línea
+ [leche, pan, huevos]
+ [chorizo, morcilla, botijo, pollo]
+```
+
 ## **JSON**
 
 JSON (acrònim de JavaScript *Object *Notation, 'notació d'objecte de JavaScript') és un format de text senzill per a
@@ -42,6 +54,8 @@ Hi ha molts analitzadors JSON en el costat del servidor, existint almenys un ana
 entorns. En alguns llenguatges, com Java o PHP, hi ha diferents implementacions on triar. En JavaScript, l'anàlisi és
 possible de manera nativa amb la funció JSON.parse () . Tots dos formats manquen d'un mecanisme per a representar
 grans objectes binaris.
+
+És una possible representació *JSON del següent XML:14
 
 ```
 <menu id="file" value="File">
